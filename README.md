@@ -171,7 +171,7 @@ except Exception as e:
 
 ## Data Analysis
 
-For this portion of the project we are going to be answering 10 business questions using SQL in our PostgreSQL database, each question is roughly increasing difficulty.
+For this portion of the project we are going to be answering 9 business questions using SQL in our PostgreSQL database, each question is roughly increasing difficulty.
 
 **Business Questions**
 
